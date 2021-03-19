@@ -155,6 +155,150 @@ sim_vehicle.py -v ArduPlane -f quadplane --console --map
 sim_vehicle.py -v ArduPlane --console --map --osd
 
 
+________________________________________________________________________________________Commamds-------------------------------------------------------------------
+
+    1  sudo su
+    2  sudo su'
+    3  sudo su
+    4  ls
+    5  sudo su
+    6  ls'
+    7  sudo su
+    8  sudo apt-get install python3-dev python3-opencv python3-wxgtk4.0 python3-pip python3-matplotlib python3-lxml python3-pygame
+    9  sudo apt-get install python-dev python-opencv python-wxgtk4.0 python-pip python-matplotlib python-lxml python-pygame
+   10  ls
+   11  nemo text.py 
+   12  nano text.py 
+   13  ls
+   14  sudo su
+   15  apt upgrade
+   16  sudo su
+   17  ls
+   18  cd ardupilot/
+   19  Tools/environment_install/install-prereqs-ubuntu.sh -y
+   20  . ~/.profile
+   21  history
+   22  /ardupilot/Tools/autotest/: fg_plane_view.sh (Plane) and fg_quad_view.sh (Copter).
+   23  ls
+   24  cd ardupilot/
+   25  ls
+   26  cd tool
+   27  ls
+   28  cd Tools/
+   29  ls
+   30  cd autotest/
+   31  lsd
+   32  ls
+   33  ll
+   34  fg_plane_view.sh (Plane) and fg_quad_view.sh (Copter).
+   35  fg_plane_view.sh (Plane) and fg_quad_view.sh (Copter)
+   36  sudo su
+   37  export PATH =$PATH:$HOME/jsbsim/src
+   38  cd /usr/lib/ccache:/home/nspl/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-6-2017-q2-update/bin:/home/nspl/.local/bin:/opt/apache-maven/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-15-oracle/bin:/usr/lib/jvm/java-15-oracle/db/bin:/home/nspl/jsbsim/src'
+   39  sim_vehicle.py --console --map
+   40  sudo apt-get install python-pip3
+   41  sudo apt-get install python-pip
+   42  sudo apt-get install python-opencv python-wxgtk2.8 python-matplotlib python-numpy python-serial python-pil libwxgtk2.8-dev libpython2.7-dev
+   43  libwxgtk3.0-dev
+   44  sudo apt-get install libwxgtk3.0-dev
+   45  ./waf clean
+   46  ls
+   47  cd ardupilot/
+   48  ./waf clean
+   49  export PATH=$PATH:$HOME/ardupilot/Tools/autotest
+   50  export PATH=/usr/lib/ccache:$PATH
+   51  . ~/.bashrc
+   52  sim_vehicle.py -w
+   53  sim_vehicle.py --console --map
+   54  ls
+   55  cd ArduCopter/
+   56  sim_vehicle.py -w
+   57  sim_vehicle.py --console --map
+   58  sim_vehicle.py --console --map --console
+   59  sim_vehicle.sh -j4 --map --console
+   60  sim_vehicle.py -w
+   61  sim_vehicle.py --console --map
+   62  export MAP_SERVICE="MicrosoftHyb"
+   63  pip install --upgrade pymavlink MAVProxy --user
+   64  sudo apt-get install flightgear
+   65  sim_vehicle.py -L KSFO
+   66  sim_vehicle.py --help
+   67  cd ..
+   68  ls
+   69  cd ArduPlane/
+   70  sim_vehicle.py -f quadplane --console --map --osd
+   71  sim_vehicle.py -f quadplane --console --map
+   72  sim_vehicle.py -f quadplane --console
+   73  sim_vehicle.py -f quadplane 
+   74  sim_vehicle.py 
+   75  sudo sim_vehicle.py 
+   76  sudo su
+   77  sim_vehicle.py 
+   78  f = open(r"/var/www/path/to/file/newfile.txt","w+")
+   79  chmode 777tasklist.json
+   80  chmod 777tasklist.json
+   81  ls
+   82  chmod 777tasklist.json
+   83  chmod 777 *
+   84  sim_vehicle.py -f quadplane --console --map --osd
+   85  chmod 777 *
+   86  cd /home/nspl/ardupilot/wscript
+   87  cd /home/nspl/ardupilot/
+   88  ls
+   89  clear
+   90  sim_vehicle.py -f quadplane --console --map --osd
+   91  ls
+   92  cd ArduCopter/
+   93  sim_vehicle.py -f quadplane --console --map --osd
+   94  cd ..
+   95  ArduPlane/
+   96  sim_vehicle.py -f quadplane --console --map --osd
+   97  cd ArduPlane/
+   98  sim_vehicle.py -f quadplane --console --map --osd
+   99  ls
+  100  clear
+  101  sim_vehicle.py -f quadplane --console --map --osd
+  102  ls
+  103  cd
+  104  ls
+  105  cd ardupilot/
+  106  ls
+  107  cd modules
+  108  ls
+  109  cd waf
+  110  ls'
+  111  ls
+  112  cd waflib
+  113  ls
+  114  nano Scripting.py
+  115  cd
+  116  ls
+  117  cd ardupilot/
+  118  ls
+  119  find . -tasklist.json "*.rb"
+  120  find . -Dockerfile "*.rb"
+  121  sim_vehicle.py -f quadplane --console --map --osd
+  122  cd ArduPlane/
+  123  sim_vehicle.py -f quadplane --console --map --osd
+  124  cd /home/nspl/ardupilot/wscript
+  125  cd
+  126  cd ardupilot/
+  127  ls
+  128  nano wscript 
+  129  chmod 777wscript
+  130  chmod 777 *
+  131  ls
+  132  cd ArduPlane/
+  133  sim_vehicle.py -f quadplane --console --map --osd
+  134  cd 
+  135  sudo su
+  136  cd ardupilot/
+  137  cd ArduPlane/
+  138  sim_vehicle.py -f quadplane --console --map --osd
+  139  history
+
+
+
 
 
 
